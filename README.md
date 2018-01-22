@@ -16,9 +16,9 @@ Technology used:
 
 ```bash
 # Clone this repository
-git clone https://github.com/JiajunZhou1995/Notepad-Decktop.git
+git clone https://github.com/JiajunZhou1995/Notepad-Desktop.git
 # Go into the repository
-cd Notepad-Decktop
+cd Notepad-Desktop
 # Install dependencies
 npm install
 # compile all the js code
