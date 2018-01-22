@@ -19,6 +19,8 @@ Technology used:
 git clone https://github.com/JiajunZhou1995/Notepad-Desktop.git
 # Go into the repository
 cd Notepad-Desktop
+# Install electron
+npm install electron --save-dev --save-exact
 # Install dependencies
 npm install
 # compile all the js code
